@@ -1,0 +1,6 @@
+*.git
+weights/
+__pyache__
+*.idea
+
+
